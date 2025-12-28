@@ -3,8 +3,6 @@
 
 ---
 
-## Résumé exécutif (TL;DR recruteur)
-
 Ce projet démontre ma capacité à **concevoir, structurer et expliquer un pipeline de Machine Learning de bout en bout**, appliqué à un cas business réel :  
 **la prédiction des ventes hebdomadaires chez Walmart**.
 
