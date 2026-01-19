@@ -1,3 +1,5 @@
+Link to github [project](https://github.com/FAYCEL75/walmart_sales)
+
 # Walmart – Prédiction des ventes hebdomadaires  
 **Projet Machine Learning | Approche professionnelle & orientée business**
 
